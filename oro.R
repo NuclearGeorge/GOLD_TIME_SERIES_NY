@@ -1,7 +1,7 @@
 #*********************************************************************
 # ANALISIS DE GRAFICAS DE SERIE DE TIEMPO DEL ORO    
 #
-# Por: Mat. Irlanda GarcÕa y Dr. Jorge Ch·vez
+# Por: Dr. Jorge Ch√°vez
 #*********************************************************************
 Lista = read.csv("https://raw.githubusercontent.com/NuclearGeorge/ORO/master/oro_datos/181126.csv", header = FALSE)
 
