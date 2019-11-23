@@ -1,2 +1,2 @@
 # ORO
-Cotización del precio del ORO NY
+Datos Obtenidos de Kitco para el costo del Oro.
